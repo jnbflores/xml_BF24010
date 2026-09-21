@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="BF24010-preguntas_respuestas.css"?>
+<!-- BF24010-preguntas.xml -->
+<!-- Estudiante. José Napoleón Bolaños Flores    Carnet: BF24010 -->
+<preguntas>
+
+    <pregunta numero="1">
+        <texto>¿A partir del ejemplo 1 y ejercicios desarrollados hasta el momento que puede concluir?</texto>
+        <respuesta>
+            Concluyo que XML permite crear etiquetas y atributos propios para organizar y almacenar información. Para que un documento XML sea bien formado, debe respetar reglas como cerrar las etiquetas, mantener un correcto anidamiento, respetar mayúsculas y minúsculas y colocar los atributos entre comillas simples.
+        </respuesta>
+    </pregunta>
+
+    <pregunta numero="2">
+        <texto>¿A partir del ejemplo 2 y ejercicios desarrollados hasta el momento que puede concluir?</texto>
+        <respuesta>
+            Concluyo que en XML se pueden representar datos de diferentes formas utilizando elementos y atributos. Es importante elegir de manera lógica cuándo utilizar cada uno, dependiendo de la información que se quiera representar.
+        </respuesta>
+    </pregunta>
+
+    <pregunta numero="3">
+        <texto>¿A partir de los ejercicios desarrollados en esta sección II.3 que puede concluir?</texto>
+        <respuesta>
+            Concluyo que un documento XML puede convertirse a formato JSON para representar la misma información de una manera diferente. La conversión permite trabajar con los datos utilizando otros formatos y herramientas, dependiendo de las necesidades del proyecto.
+        </respuesta>
+    </pregunta>
+
+    <pregunta numero="4">
+        <texto>¿A partir de los ejemplos/ejercicios CSS desarrollados, que puede concluir?</texto>
+        <respuesta>
+            Concluyo que CSS permite darle formato y mejorar la presentación visual de los documentos XML. Se pueden cambiar colores, tamaños de letra, fondos y la forma en que se muestran los elementos, sin modificar la información contenida en el documento XML.
+        </respuesta>
+    </pregunta>
+
+    <enlace xmlns="http://www.w3.org/1999/xhtml">
+        <a href="index.html">Presione acá para volver al index.html</a>
+    </enlace>
+
+</preguntas>

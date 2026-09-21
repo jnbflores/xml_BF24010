@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="BF24010-ejemplo1.css" ?>
+<!-- ejemplo1.xml BF24010 -->
+<!--  Estudiante. José Napoleón Bolaños Flores    Carnet: BF24010 -->
+<fichero>
+
+  <ficha id="1" fechaingreso="1/11/2012">
+        <nombre>Antonio</nombre>
+       <apellido>Barbero</apellido>
+       <direccion>Calle de Los Andes, 45</direccion>
+  </ficha>
+  
+  <enlace xmlns="http://www.w3.org/1999/xhtml">
+      <a href="index.html">Presione acá para volver al index.html</a>
+  </enlace>
+  
+</fichero>

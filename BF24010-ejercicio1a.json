@@ -1,0 +1,24 @@
+{
+  "fichero": {
+    "ficha": [
+      {
+        "nombre": "Antonio",
+        "apellido": "Barbero",
+        "direccion": "Calle de Los Andes, 45"
+      },
+      {
+        "titulo": "Ficha de datos del estudiante",
+        "nombre": "José Napoleón",
+        "apellido": "Bolaños Flores",
+        "carnet": "BF24010",
+        "universidad": "Universidad de El Salvador (UES)",
+        "facultad": "Facultad de Ingeniería y Arquitectura",
+        "carrera": "Ingeniería de Sistemas Informáticos",
+        "direccion": "Distrito de Tenancingo, Cuscatlán Sur, Cuscatlán, El Salvador",
+        "telefono": "1010-1010",
+        "email": "bf24010@ues.edu.sv",
+        "url": "http://xml.bf24010.tpi.com"
+      }
+    ]
+  }
+}

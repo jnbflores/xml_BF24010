@@ -1,0 +1,15 @@
+/* BF24010-ejemplo2.css*/
+
+pais {background-color: lightblue; display: block; padding: 20px;}
+
+departamento {background-color: lightgray; display: block; margin: 15px; padding: 15px;}
+
+cabecera {color: darkblue; font-size: 24px; font-weight: bold;display: block;}
+
+habitantes {color: green; font-size: 18px; display: block;}
+
+altura {color: brown; font-size: 16px; display: block;}
+
+enlace {display: block; margin: 20px;}
+
+a {color: darkblue; font-size: 18px;}

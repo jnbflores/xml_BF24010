@@ -1,0 +1,24 @@
+{
+  "pais": {
+    "idiomas": {
+      "oficial": "Español",
+      "autoctono": "Náhuat"
+    },
+    "departamento": [
+      {
+        "nombre": "San Salvador",
+        "cabecera": "San Salvador",
+        "altura": "545 MSNM"
+      },
+      {
+        "habitantes": "250,000",
+        "altura": "850 MSNM"
+      },
+      {
+        "cabecera": "Santa Tecla",
+        "habitantes": "440,000",
+        "altura": "925 MSNM"
+      }
+    ]
+  }
+}

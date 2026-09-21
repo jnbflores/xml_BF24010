@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="BF24010-ejercicio2b.css"?>
+<!-- ejercicio2b.xml BF24010 -->
+<!--  Estudiante. José Napoleón Bolaños Flores    Carnet: BF24010 -->
+<pais nombre="El Salvador" moneda="Dolar estadounidense" codigo="503">
+  
+  <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Náhuat</autoctono>
+  </idiomas>
+  
+      <departamento id="1" habitantes="1,700,000">
+        <nombre>San Salvador</nombre>
+        <cabecera>San Salvador</cabecera>
+        <altura>545 MSNM</altura>
+      </departamento>
+      
+       <departamento id="2" nombre="Cuscatlán" cabecera="Cojutepeque">
+        <habitantes>250,000</habitantes>
+        <altura>850 MSNM</altura>
+      </departamento>
+      
+      <departamento id="3" nombre="La Libertad">
+        <cabecera>Santa Tecla</cabecera>
+        <habitantes>440,000</habitantes>
+        <altura>925 MSNM</altura>
+      </departamento>
+      
+  <enlace xmlns="http://www.w3.org/1999/xhtml">
+    <a href="index.html">Presione acá para volver al index.html</a>
+  </enlace>
+      
+</pais>
